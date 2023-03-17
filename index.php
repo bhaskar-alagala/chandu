@@ -6,7 +6,7 @@
   <h2> Welcome to Chandu's website </h2>
 
 <?php
-echo "Hello World!";
+echo "Hello World! to my website";
 ?>
 
 </body>
